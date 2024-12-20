@@ -27,6 +27,3 @@ This project processes this data using Apache Spark and Databricks to compute th
 2. Upload the dataset (Automotive_5.json) to Databricks.
 3. Follow the notebook for step-by-step instructions on analyzing the dataset.
 4. The code will compute the helpfulness ratio for reviews and display the top reviews based on this metric.
-
-## License
-This project is licensed under the MIT License.
